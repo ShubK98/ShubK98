@@ -1,8 +1,8 @@
 ## <h1> Hey there !! 👋 </h1> <h3>Shubham Kale here..</h3>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-I'm currently pursuing my Masters in Information Technology & Management at the <i>University of Texas Dallas<i>, I possess 2+ years of work experience in the field of Information Technology, I have strong foundations & experience in Software Development, Testing, Deployement, DevOps & Data Visualization/Modelling/Management...
+I'm currently pursuing my Masters in <i>Information Technology & Management</i> at the <i>University of Texas Dallas<i>, I possess 2+ years of work experience in the field of Information Technology, I have strong foundations & experience in Software Development, Testing, Deployement, DevOps & Data Visualization/Modelling/Management...
 
-I am actively learning Python for Data Analytics along with Data Visualization tools like(Power Bi & Tableau)
+I am actively learning <b>Python</b> for Data Analytics along with Data Visualization tools like(Power Bi & Tableau)
 <hr>
 
  <a href="https://www.linkedin.com/in/ShubKale98/" target="blank">
