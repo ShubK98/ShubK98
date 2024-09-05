@@ -12,7 +12,7 @@ I am actively learning Python for Data Analytics along with Data Visualization t
 
 <hr>
 <p>
-- 🔭 I’m currently working at UTDallas Housing Operations <br>
+- 🔭 I’m currently working at <p style="color: blue">UTDallas</p> <br>
 - 🌱 I’m currently learning Python, Data Visualization, Big Data <br>
 - 🤔 I’m looking for help with ... <br>
 - 💬 Ask me about <br>
