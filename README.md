@@ -1,6 +1,6 @@
-## <h1> Hey there !! 👋 </h1> <h3>My profile page is a work in progress..</h3>
+## <h1> Hey there !! 👋 </h1> <h3>Shubham Kale here..</h3>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-I'm <i>Shub Kale,</i> currently pursuing my Masters in Information Technology & Management at the <i>University of Texas Dallas<i>, I possess 2+ years of work experience in the field of Information Technology, I have strong foundations & experience in Software Development, Testing, Deployement, DevOps & Data Visualization/Modelling/Management...
+I'm currently pursuing my Masters in Information Technology & Management at the <i>University of Texas Dallas<i>, I possess 2+ years of work experience in the field of Information Technology, I have strong foundations & experience in Software Development, Testing, Deployement, DevOps & Data Visualization/Modelling/Management...
 
 I am actively learning Python for Data Analytics along with Data Visualization tools like(Power Bi & Tableau)
 <hr>
