@@ -4,7 +4,7 @@ I'm <i>Shub Kale,</i> currently pursuing my Masters in Information Technology & 
 
 I am actively learning Python for Data Analytics along with Data Visualization tools like(Power Bi & Tableau)
 <hr>
-<i class="fa-brands fa-linkedin-in" href="https://www.linkedin.com/in/ShubKale98/"></i>
+<i class="fas-brands fa-linkedin-in" href="https://www.linkedin.com/in/ShubKale98/"></i>
 <!--
 **ShubK98/ShubK98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
