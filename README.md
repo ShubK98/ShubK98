@@ -1,6 +1,6 @@
 ## <h1> Hey there !! 👋 </h1> <h3>Shubham Kale here..</h3>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-I'm currently pursuing my Masters in <i>Information Technology & Management</i> at the <i>University of Texas Dallas<i>, I possess 2+ years of work experience in the field of Information Technology, I have strong foundations & experience in Software Development, Testing, Deployement, DevOps & Data Visualization/Modelling/Management...
+I'm  pursuing my Masters in <i>Information Technology & Management</i> at the <i>University of Texas Dallas<i>, I possess 2+ years of work experience in the field of Information Technology, I have strong foundations & experience in Software Development, Testing, Deployement, DevOps & Data Visualization/Modelling/Management...
 <br><br>
 I am actively learning <i>Data Analytics, Data Visualization & Big Data..</i>
 <hr>
@@ -25,10 +25,7 @@ I am actively learning <i>Data Analytics, Data Visualization & Big Data..</i>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
- 
-
 
 <br />
