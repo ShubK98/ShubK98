@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
+
 ## <h1> Hey there !! 👋 </h1> <h3>Shubham Kale here..</h3>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 I'm  pursuing my Masters in <b>Information Technology & Management</b> at the <i>University of Texas Dallas<i>, I possess 2+ years of work experience in the field of Information Technology, I have strong foundations & experience in Software Development, Testing, Deployement, DevOps & Data Visualization/Modelling/Management...
