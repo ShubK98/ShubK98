@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/ShubK98/ShubK98/main/New%20Anim.gif)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/ShubK98/ShubK98/main/New%20Anim.gif)]()
 
 ## <h1> Hey there !! 👋 </h1> <h3>Shubham Kale here..</h3>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
