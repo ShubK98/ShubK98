@@ -15,8 +15,14 @@ I am actively learning <i>Data Analytics, Data Visualization & Big Data..</i>
 <hr>
 
 ### 🧰 Languages and Tools
-<div style="padding: 5px;">
+<div style="padding: 5px; border: 2px solid grey;">
     <!-- Your content here -->Tableau
+</div>
+<div style="padding: 5px; border: 2px solid grey;">
+    <!-- Your content here --> Power Bi
+</div>
+<div style="padding: 5px; border: 2px solid grey;">
+    <!-- Your content here -->
 </div>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />  
