@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="style.css">
 ## <h1> Hey there !! 👋 </h1> <h3>Shubham Kale here..</h3>
 <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"> -->
-I'm  pursuing my Masters in <b>Information Technology & Management</b> at the <i>University of Texas Dallas<i>, I possess 2+ years of work experience in the field of Information Technology, I have strong foundations & experience in Software Development, Testing, Deployement, DevOps & Data Visualization/Modelling/Management...
+I'm  pursuing my Masters in <i>Information Technology & Management</i> at the <i>University of Texas Dallas<i>, I possess 2+ years of work experience in the field of Information Technology, I have strong foundations in Software Development, Testing, Deployement, DevOps & Data Visualization/Modelling/Management...
 <br><br>
 I am actively learning <i>Data Analytics, Data Visualization & Big Data..</i>
 <hr>
@@ -15,15 +15,7 @@ I am actively learning <i>Data Analytics, Data Visualization & Big Data..</i>
 <hr>
 
 ### 🧰 Languages and Tools
-<div class="brooo">
-    <!-- Your content here -->Tableau
-</div>
-<div style="padding: 5px; border: 2px solid grey;">
-    <!-- Your content here --> Power Bi
-</div>
-<div style="padding: 5px; border: 2px solid grey;">
-    <!-- Your content here -->
-</div>
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />  
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
