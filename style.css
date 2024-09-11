@@ -52,6 +52,11 @@
     scroll-behavior: smooth ;
  } 
 
+ .brooo{
+    padding: 5px;
+    border: 2px solid coral;
+    border-radius: 5 px;
+ }
 
 body {
     background: var(--clr-light);
