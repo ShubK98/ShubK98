@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/ShubK98/ShubK98/main/New%20Anim.gif)]()
 <link rel="stylesheet" href="style.css">
 ## <h1> Hey there !! 👋 </h1> 
-<h2 style="border: none; text-decoration: none; margin: 0; padding: 0;">- UTDallas - MS - Information Technology & Management (May - 2025)</h2>
+<h3>- UTDallas - MS - Information Technology & Management (May - 2025)</h3>
 <h3>- 2 years work experience in the field of Information Technology</h3>
 <h3>- Actively Seeking Internships</h3>
 <hr>
