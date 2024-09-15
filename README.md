@@ -19,13 +19,8 @@ I am actively learning <i>Data Analytics, Data Visualization & Big Data..</i>
 <hr>
 
 ### 🧰 Languages and Tools
-<div class="brooo">
-    <!-- Your content here -->Tableau
-</div>
-<div style="padding: 5px; border: 2px solid grey;">
-    <!-- Your content here --> Power Bi
-</div>
-<div style="padding: 5px; border: 2px solid grey;">
+<p>Tableasu / Power-Bi</p>
+<br>
     <!-- Your content here -->
 </div>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
